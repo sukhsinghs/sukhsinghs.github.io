@@ -17,3 +17,8 @@ body {
 .card {
     height: 100%;
 }
+
+#pickButton {
+ margin-left: 20%   
+    
+}
